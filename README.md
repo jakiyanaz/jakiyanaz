@@ -6,7 +6,7 @@
 - Projects:
 -   1. learn-with-fun: https://github.com/jakiyanaz/learn-with-fun
     2. weather-app: https://github.com/jakiyanaz/weather-app
-    3. 
+    3. water: https://github.com/jakiyanaz/water
 
 <!---
 jakiyanaz/jakiyanaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
