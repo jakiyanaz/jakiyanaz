@@ -8,6 +8,7 @@
     2. weather-app: https://github.com/jakiyanaz/weather-app
     3. water: https://github.com/jakiyanaz/water
     4. image-generator: https://water-iva1.vercel.app/
+    5. major-quiz-app: https://github.com/jakiyanaz/major-quiz-app.git
 
 <!---
 jakiyanaz/jakiyanaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
